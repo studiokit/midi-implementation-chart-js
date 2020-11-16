@@ -1,0 +1,22 @@
+{
+  "name": "midi-implementation-chart",
+  "version": "1.0.0",
+  "description": "midi implementation chart kickass generator'",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studiokit/midi-implementation-chart-js.git"
+  },
+  "keywords": [
+    "generator"
+  ],
+  "author": "studiokit authors",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/studiokit/midi-implementation-chart-js/issues"
+  },
+  "homepage": "https://github.com/studiokit/midi-implementation-chart-js#readme"
+}
